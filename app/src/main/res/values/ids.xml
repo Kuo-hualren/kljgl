@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_Scan" type="id" />
+    <item name="recyclerView_ScannedList" type="id" />
+</resources>
